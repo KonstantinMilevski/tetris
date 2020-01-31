@@ -1,0 +1,4 @@
+/home/MIk/prct/Games/tetris/build-Debug/CMakeFiles/edit_cache.dir
+/home/MIk/prct/Games/tetris/build-Debug/CMakeFiles/rebuild_cache.dir
+/home/MIk/prct/Games/tetris/build-Debug/CMakeFiles/engine.dir
+/home/MIk/prct/Games/tetris/build-Debug/CMakeFiles/game.dir
